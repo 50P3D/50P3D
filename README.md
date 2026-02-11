@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @50P3D/ ADVN
-- 👀 I’m interested in having fun and learning new stuff
+Wazzup
+
+Its ADVN
+
+Tryna do stuff 
+
+See how it goes
 
 
 <!---
